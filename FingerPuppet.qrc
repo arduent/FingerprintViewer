@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>starttoscan.png</file>
+        <file>swipeyourfinger.png</file>
+        <file>tryagain.png</file>
+        <file>doit.png</file>
+    </qresource>
+</RCC>
